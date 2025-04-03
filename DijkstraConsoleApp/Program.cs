@@ -40,7 +40,7 @@ namespace DijkstraConsoleApp
                 //Display result
                 Console.WriteLine("\nResult:");
                 Console.WriteLine($"Path:{result.GetPath()}");
-                Console.WriteLine($"Total Distance:{result._distance} ");v
+                Console.WriteLine($"Total Distance:{result._distance} ");
 
             }
             catch (Exception ex)
